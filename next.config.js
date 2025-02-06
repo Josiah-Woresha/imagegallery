@@ -6,8 +6,9 @@ module.exports = {
         protocol: "https",
         hostname: "res.cloudinary.com",
         port: "",
-        pathname: "/my-account/**",
+        pathname: "/dek2cgjld/**", // Replace "dek2cgjld" with your Cloudinary cloud name
       },
     ],
   },
 };
+
