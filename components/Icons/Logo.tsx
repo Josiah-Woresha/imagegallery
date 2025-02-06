@@ -5,7 +5,7 @@ const Logo = (props) => (
     xmlns="http://www.w3.org/2000/svg"
     width="1000"
     height="192"
-    viewBox="0 -100 2000 192"
+    viewBox="0 0 2000 192"
   >
     <svg
       xmlSpace="preserve"
